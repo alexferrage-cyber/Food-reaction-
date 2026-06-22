@@ -1,9 +1,0 @@
-{
-  "name": "Crew Day Briefing",
-  "short_name": "Crew Brief",
-  "start_url": ".",
-  "display": "standalone",
-  "background_color": "#0f1117",
-  "theme_color": "#0f1117",
-  "icons": []
-}
