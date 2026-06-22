@@ -1,0 +1,8 @@
+name = "crew-weather-proxy"
+main = "weather-proxy.js"
+compatibility_date = "2026-06-01"
+
+[vars]
+# Remplace par ton origine GitHub Pages pour verrouiller CORS.
+# Exemple : ALLOWED_ORIGIN = "https://alexferrage-cyber.github.io"
+ALLOWED_ORIGIN = "*"
